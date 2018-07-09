@@ -14,7 +14,7 @@ Pick your seat and check in to flight
 *Clone down this repository:*    
 You will need `node` and `npm` installed globally on your machine.  
 ```git clone https://github.com/merveer/flight-check-in.git```    
-```cd flight-checkin```  
+```cd flight-check-in```  
 
 *Dependency Installation:*   
 ```npm install```
